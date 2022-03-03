@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;600&family=Roboto+Condensed:wght@300&family=Roboto+Serif:wght@200&display=swap');
+
+html {
+    display: table;
+    text-align: center;
+    height: 100%;
+    margin: auto;
+    background: hsl(217, 54%, 11%);
+
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+#main-card {
+    background: hsl(216, 50%, 16%);
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    border-radius: 15px;
+
+
+}
+
+#inner-card {
+    width: 85%;
+    margin: auto;
+    text-align: left;
+
+}
+
+#img {
+    width: 100%;
+    margin-top: 25px;
+    text-align: left;
+    border-radius: 10px;
+
+}
+
+
+.text {
+    font-family: "Outfit", sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+
+#eth {
+    color: hsl(178, 100%, 50%);
+    font-weight: 400;
+    font-size: 18px;
+    display: inline;
+    vertical-align: middle;
+}
+
+#ethicon {
+    display: inline;
+    height: 80%;
+
+
+}
+
+#ethiconn {
+    vertical-align: middle;
+    margin-right: 3px;
+
+}
+
+#daysleft {
+    display: inline;
+    float: right;
+}
+
+#clock {
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
+
+#days {
+    display: inline;
+    vertical-align: middle;
+}
+
+#bar {
+    width: 100%;
+    border-bottom: 1px solid rgba(255, 255, 255, .25);
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+#profile {
+    height: 50%;
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 25px;
+
+}
+
+#avatar {
+
+    width: 10%;
+    vertical-align: middle;
+    margin-right: 10px;
+    border-radius: 200px;
+    border: 1px solid #cfd8dc;
+
+}
+
+#firstxt {
+    display: inline;
+    vertical-align: middle;
+}
+
+#secondtext {
+    display: inline;
+    color: white;
+    vertical-align: middle;
+
+}
